@@ -1,0 +1,19 @@
+[workspace]
+members = [
+  "l21_wc",
+  "l22_unpack",
+  "l23_sort",
+  "l24_anagram",
+  "l25_grep",
+  "l26_cut",
+  "l27_lf",
+  "l28_shell",
+  "l29_wget",
+  "l210_telnet",
+  "l211_http",
+  "l212",
+  "l213",
+  "l214",
+  "l215",
+  "l216",
+]
